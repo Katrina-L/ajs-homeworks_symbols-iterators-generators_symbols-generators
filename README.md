@@ -1,0 +1,2 @@
+# Appveyor Check
+[![Build status](https://ci.appveyor.com/api/projects/status/2xi1yb3cyb4ul1l6?svg=true)](https://ci.appveyor.com/project/Katrina-L/ajs-homeworks-symbols-iterators-generators-symbols-deu7a)
